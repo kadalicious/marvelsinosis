@@ -1,0 +1,262 @@
+<resources>
+    <string name="app_name">marvel movie</string>
+
+
+    <string name="judul_movie">Judul Movie</string>
+    <string name="sinopsis">Sinopsis</string>
+
+
+    <string-array name="data_judul">
+        <item>Captain America: The first avenger</item>
+        <item>Captain Marvel</item>
+        <item>Ironman</item>
+        <item>Ironman 2</item>
+        <item>The Incredible Hulk</item>
+        <item>Thor</item>
+        <item>The Avengers</item>
+        <item>Ironman 3</item>
+        <item>Thor: The Dark World</item>
+        <item>Captain America: The Winter Soldier</item>
+    </string-array>
+
+
+    <string-array name="data_sinopsis">
+        <item>
+             Rilis tahun : 2011 \n
+             disutradarai oleh  Joe Johnston \n
+        </item>
+
+        <item>
+             Rilis tahun : 2019 \n
+             disutradarai oleh Anna Boden dan Ryan Fleck \n
+        </item>
+
+        <item>
+             Rilis tahun : 2008 \n
+            disutradarai oleh Jon Favreau \n
+        </item>
+
+        <item>
+             Rilis tahun : 2010 \n
+            disutradarai oleh Jon Favreau \n
+        </item>
+
+        <item>
+             Rilis tahun : 2008 \n
+            disutradarai oleh Louis Leterrier \n
+        </item>
+
+        <item>
+            Rilis tahun : 2011 \n
+            disutradarai oleh Kenneth Branagh \n
+        </item>
+
+        <item>
+            Rilis tahun : 2012 \n
+            disutradarai oleh  Joss Whedon \n
+        </item>
+
+        <item>
+             Rilis tahun : 2013  \n
+            disutradarai oleh Shane Black \n
+        </item>
+
+        <item>
+             Rilis tahun : 2013  \n
+            disutradarai oleh Alan Taylor \n
+        </item>
+
+        <item>
+            Rilis tahun : 2014  \n
+            disutradarai oleh  Anthony dan Joe Russo \n
+        </item>
+
+    </string-array>
+
+
+
+
+
+
+
+    <string-array name="data_tambah">
+        <item>
+            \n
+            Dimulai pada tahun 1942 saat Perang Dunia II, seorang pria bertubuh kurus dan pendek dengan riwayat kesehatan buruk, Steve Rogers (Chris Evans), berusaha untuk bergabung ke militer Amerika untuk ikut berperang. Setelah mencoba berkali-kali dan tidak berhasil, Steve akhirnya berhasil lolos seleksi karena dibantu Dr. Erskine (Stanley Tucci) yang melihat kebaikan di hati Steve. Dr. Erskine menunjuknya sebagai percobaan teknologi terbaru militer Amerika yang bisa mengubah tubuh seseorang dengan memanipulasi gen dan ototnya, menjadikannya manusia unggul. Steve Rogers yang telah menjadi Captain America memiliki kekuatan yang luar biasa diterjunkan dalam medan perang di Eropa melawan Nazi dan berhasil membebaskan banyak tawanan perang Amerika. Steve juga berhadapan dengan Johann Schmidt (Hugo Weaving) yang menggunakan kekuatan kubus Odin dan pemimpin organisasi kejahatan Hydra. Dengan kekuatan kubus Odin, Schmidt menyuntikkan serum ke tubuhnya yang mengubahnya menjadi Red Skull. Akhirnya Captain America berhasil mengalahkan semua musuhnya namun dia kecelakaan di kutub es bersama dengan roket yang membawa bom. Captain America lalu membeku dan kembali ditemukan pada masa depan oleh Nick Fury.
+
+            \n\nsource : WIKIPEDIA
+        </item>
+
+        <item>
+            \n
+            Pada 1995, di planet ibu kota Kekaisaran Kree, Hala, anggota Starforce Vers menderita amnesia dan mimpi buruk berulang yang melibatkan seorang wanita yang lebih tua. Yon-Rogg, mentor dan komandannya, melatihnya untuk mengendalikan kemampuannya sementara Intelejen Tertinggi, kecerdasan buatan yang mengatur Kree, mendesaknya untuk mengendalikan emosinya.
+
+Selama misi untuk menyelamatkan seorang agen rahasia yang menyusup ke sebuah kelompok Skrulls, alien berubah-ubah dengan siapa Kree berperang, Vers ditangkap oleh komandan Skrull, Talos. Sebuah penyelidikan ingatan Vers membawa mereka ke Bumi. Vers lolos dan crash-tanah di Los Angeles. Kehadirannya menarik bagi S.H.I.E.L.D. agen Nick Fury dan Phil Coulson, yang penyelidikannya terganggu oleh serangan Skrull. Dalam pengejaran berikutnya, Vers pulih kristal yang mengandung kenangan yang diekstraksi sementara Fury membunuh Skrull menyamar sebagai Coulson. Talos, yang menyamar sebagai bos Fury Keller, memerintahkan Fury untuk bekerja dengan Vers dan mengawasi dia.
+
+Menggunakan ingatannya yang diekstraksi, Vers dan Fury pergi ke instalasi Project Pegasus di pangkalan Angkatan Udara AS. Mereka menemukan Vers adalah seorang pilot yang diduga telah meninggal pada tahun 1989 ketika menguji mesin jet eksperimental yang dirancang oleh Dr. Wendy Lawson, yang diakui Vers sebagai wanita dari mimpi buruknya. After Fury menginformasikan kepada S.H.I.E.L.D. dari lokasi mereka, sebuah tim yang dipimpin oleh Talos menyamar sebagai Keller tiba. Fury menemukan tipu muslihat Talos dan membantu Vers melarikan diri dengan jet kargo bersama Goose, kucing hitam Lawson. Mereka terbang ke Louisiana untuk bertemu dengan mantan pilot Maria Rambeau, orang terakhir yang melihat Vers dan Lawson hidup.
+
+Rambeau dan putrinya Monica mengungkapkan bahwa Vers adalah Carol Danvers, yang dulunya seperti keluarga bagi mereka. Talos, yang tiba tanpa senjata, menjelaskan bahwa Skrull adalah pengungsi yang mencari rumah baru dan Lawson adalah Mar-Vell, seorang ilmuwan Kree pemberontak yang membantu mereka. Talos memainkan rekaman pulih dari jet Lawson, mendorong Danvers untuk mengingat kecelakaan itu: Lawson dibunuh oleh Yon-Rogg untuk mencegahnya menghancurkan mesin sebelum Kree bisa memulihkannya. Menghancurkan mesin sendiri, Danvers menyerap energi dari ledakan berikutnya, mendapatkan kekuatan tetapi kehilangan ingatannya.
+
+Danvers, Talos, Fury, dan Rambeau menemukan laboratorium jubah Lawson yang mengorbit Bumi, tempat Lawson menyembunyikan beberapa Skrull, termasuk keluarga Talos, dan Tesseract, sumber daya mesin Lawson. Di sana, Danvers ditangkap oleh Starforce dan berinteraksi dengan Supreme Intelligence. Selama percakapan mereka, Danvers menghapus implan Kree yang menekan kekuatannya, memungkinkannya untuk mencapai potensi penuhnya. Dalam pertempuran berikutnya, Fury mengambil Goose, yang dinyatakan sebagai alien Flerken. Goose menelan Tesseract dan menggaruk bulunya, membutakan matanya dengan satu mata. Danvers menghancurkan pembom Kree, memaksa perwira Kree Ronan si Penuduh dan skuadronnya mundur, sebelum mengalahkan Yon-Rogg di Bumi dan mengirimnya kembali ke Hala dengan peringatan kepada Intelejen Tertinggi.
+
+anvers pergi untuk membantu Skrulls menemukan dunia rumah baru, meninggalkan Fury pager yang dimodifikasi untuk menghubunginya dalam keadaan darurat. Sementara itu, Fury menyusun inisiatif untuk menemukan pahlawan seperti Danvers, menamakannya setelah tanda panggilan Angkatan Udara, "Pembalas". Dalam adegan mid-credit, diatur pada 2018, pager diaktifkan sedang dipantau oleh Avengers ketika Danvers muncul. Dalam adegan pasca-kredit, Goose naik ke meja Fury dan memuntahkan kembali Tesseract.
+
+            \n\nsource : WIKIPEDIA
+        </item>
+
+
+
+        <item>
+            \n
+            Tony Stark mempunyai nama lengkap Anthony Edward Stark. Dia lahir di Long Island, New York. Orang tua Tony Stark adalah Howard Anthony Stark (Ayah) dan Maria Stark (Ibu). Ayahnya adalah seorang pengusaha kaya raya terkemuka, pemilik perusahaan Stark Industries (Stark Enterprises). Tony Stark kecil adalah seorang genius prodigy, anak yang mempunyai kecerdasan luar biasa terutama di bidang sains khususnya permesinan.
+
+Ketertarikannya pada mesin dilanjutkan dengan menempuh pendidikan sarjana Teknik Mesin dan Kelistrikan (Electrical and Mechanical Engineering) di Massachusetts Institute of Technology (MIT) pada usia 15 tahun. Di MIT juga, Tony Stark mendapatkan dua gelar Master bidang Fisika dan Electrical and Mechanical Engineering pada usia 19 tahun. Selepas kuliah, atas permintaan ayahnya, Tony bekerja di Stark Enterprises pada divisi inovasi dan pengembangan teknologi. Tetapi, bukannya menggunakan kemampuannya sebagai insinyur mesin, Tony muda malah terjerumus ke dunia hura-hura khas anak muda. Dia mulai terbiasa dengan kehidupan yang jauh dari hal-hal positif, seperti menjadi seorang playboy dan pecandu alkohol. Dia menjadi seorang alkoholik yang gemar berpesta malam sembari sibuk mengencani gadis-gadis.
+
+Pada usia 21 tahun, kedua orang tuanya meninggal karena kecelakaan mobil. Kecelakaan tersebut terjadi karena malafungsi rem yang disabotase oleh perusahaan saingan bisnis Ayahnya, Republic Oil yang kemudiaan dikenal dengan nama perusahaan ROXXON. Tony muda mewarisi seluruh kekayaan dan perusahaan Ayahnya, Stark Enterprises, dan seketika itu langsung menjadi orang kaya baru karena warisan yang didapatnya. Akan tetapi, Tony mengalami saat-saat yang paling berduka dalam hidupnya. Akibat kejadian tersebut, dia semakin terjerumus ke dalam penggunaan alkohol. Karena masih kurang pengalaman dalam bisnis, dia menunjuk sekretaris pribadinya yang sangat dipercaya, Virginia Potts atau yang lebih dikenal dengan nama Pepper Potts, untuk menjadi Asisten Eksekutif yang bertugas untuk menggantikannya menangani seluruh bisnis warisan dari Ayahnya. Walaupun keputusan tersebut sempat ditentang oleh para Dewan Direksi dan para pemegang saham, Tony tetap bersikeras dengan keputusannya. Tony yang sangat berduka dan rapuh menganggap pekerjaan yang diwarisinya sebagai sebuah beban dan dia menunjukkan keengganan yang sangat besar untuk menangani pekerjaan tersebut.
+
+Tony Stark terus melanjutkan hidupnya yang penuh hura-hura sama seperti saat-saat sebelum orang tuanya meninggal, bahkan menjadi lebih buruk. Dia menjadi seorang pribadi yang egois dan tidak serius. Selain menjadi seorang penggemar pesta-pesta malam, dia juga menjadi seorang petualang dalam arti yang sebenarnya. Dia berkeliling dunia menggunakan kekayaannya dengan diselingi bekerja sebagai direktur Stark Enterprises walaupun dilakukan dengan setengah hati. Bisnis utama Stark Enterprises sendiri adalah di bidang pertahanan dan militer. Perusahaan tersebut menjadi pemasok senjata terbesar di dunia. Bahkan media massa dengan penuh sindiran menyebutkan, “Tidak ada perang pada masa modern yang tidak menggunakan senjata buatan Stark Enterprises“.
+
+Pernah dalam suatu petualangan sekaligus pekerjaannya, karena kecerobohannya melakukan aktivitas tanpa pengawalan yang memadai seperti layaknya kaum milyuner, dia hampir menemui ajal di kancah perang Vietnam yang sedang berkecamuk (Berbeda dengan versi masa kini yang menyebutkan kejadian tersebut terjadi pada masa Perang Teluk di Irak). Dengan menderita luka yang parah, dia berhasil lolos dari maut tetapi membuatnya ditawan pihak musuh (kaum komunis). Seperti yang telah kita ketahui bersama, kejadian tersebut menjadi titik balik yang penting dalam kehidupannya. Dia bertransformasi dari seorang manusia biasa menjadi superhero luar biasa (Iron Man). Dan yang lebih penting, kejadian tersebut menjadi semacam pencerahan baginya karena telah berhasil mengubah dirinya dari manusia egois menjadi pribadi yang bertanggung jawab. Harus diakui, kejadian tersebut tidak serta-merta mengubahnya secara drastis. Seorang Pepper Potts-lah yang perlahan tetapi pasti berhasil mengubahnya. Pepper Potts menjadi wanita yang sangat penting setelah sosok Ibunya, Maria Stark, dalam kehidupan Tony. Dialah yang menjadi wanita terakhir dalam perjalanan cinta seorang Tony Stark.
+
+             \n\nsource : WIKIPEDIA
+        </item>
+
+        <item>
+            \n
+            Televisi Rusia menunjukkan Stark Industries CEO Tony Stark (Robert Downey, Jr) mengungkapkan identitasnya sebagai Iron Man kepada dunia. Ivan Vanko (Mickey Rourke), yang ayahnya, Anton Vanko (Yevgeni Lazarev), baru saja meninggal karena alkohol, melihat kejadian ini dan mulai membangun reaktor arc untuk balas dendam pada Stark.
+
+Enam bulan kemudian, Stark telah menggunakan baju Iron Man (mark IV) untuk membantu menjaga perdamaian dunia. Walaupun terkadang untuk sekadar pamer saja. Dia kembali melanjutkan lembaga Stark expo di Flushing Meadows untuk melanjutkan warisan ayahnya Howard stark. Senator Stern (Garry Shandling) menjatuhkan tuntutan yang menuduh Stark atas teknologi Iron Man kepada pemerintah. Stark lalu menolak, dia mengklaim bahwa negara-negara asing dan pesaing bisnis adalah beberapa dekade jauh dari berhasil dalam membuat reaktor tersebut, dan bahwa Iron Man sebenarnya milik Stark sendiri. Dia memenangkan tuntutan tersebut. Namun Ivan berhasil menciptakan Whiplash dan siap untuk membunuh Stark.
+
+Inti paladium dalam reaktor arc yang membuat Stark hidup dan kekuatan armor perlahan-lahan membuat-nya keracunan darah, namun dia belum sempat untuk menemukan pengganti jabatannya. Stark merasa bingung, dan memilih untuk tidak memberitahu siapa pun tentang kondisinya saat ini, Stark lalu menunjuk asisten pribadinya Pepper Potts (Gwyneth Paltrow) menjadi CEO Stark Industries, dan menggantikannya dengan anak buah Stark Natalie Rushman (Scarlett Johansson).
+
+Vanko menyerang Stark ketika Stark sedang melakukan balapan di Sirkuit de Monaco, menggunakan reaktor arc dan armor whiplash. Stark berhasil mengalahkan Vanko dengan bantuan armor Iron Man (Mark V). Dia mengetahui bahwa Vanko adalah putra dari pasangan tua ayahnya, Anton Vanko. Anton berkolaborasi dengan Howard pada reaktor arc pertama, tetapi rancangan itu di ambil Howard,sehingga Anton meninggal dalam kemiskinan dan kecanduan alkohol, lalu mengumumkan serangan balas dendam kedua kepada Stark. Kontraktor pertahanan negara dan saingan Tony Stark, Justin Hammer (Sam Rockwell) membantu Vanko untuk kabur dan membicarakan tentang membuat armor whiplash yang baru. Walau terjadi debat singkat, akhirnya Vanko bekerja sama dengan Hammer.
+
+Tingkat keracunan darah Stark sudah tinggi. Pada hari ulang tahunnya, Tony Stark mengenakan armor Iron Man dan mabuk berat, kemudian melakukan atraksi menembak botol dengan repulsor ray di ruangan pesta dengan banyak orang di dalamnya. James Rhodes (Don Cheadle), rekan Tony Stark yang merasa tindakan ini keterlaluan segera menuju ke ruangan bawah, masuk ruangan kerja Tony dan mengenakan armor Iron Man versi ke-2 (Mark II). Selanjutnya terjadi baku hantam antara Tony Stark dan James Rhodes. James Rhodes mengalahkan Stark dan ke markas militer Amerika Serikat dengan mengenakan armor Iron Man yang tadi. Setelah sampai dia menyerahkan armor itu kepada pemerintah dan meng-upgrade armor tadi dengan hadiah persenjataan dari Justin dan mengubahnya menjadi War Machine. Tony yang setengah sadar pergi ke toko donat untuk makan. Dia lalu bertemu lagi dengan Nick Fury (Samuel L. Jackson), direktur S.H.I.E.L.D. dan agen S.H.I.E.L.D., Natalie Rushman/Natasha Romanoff. Lalu Nick menyerahkan arsip-arsip Howard Stark, ayah Tony Stark, itu merupakan sebuah pesan tersembunyi dalam diorama dari Stark Expo 1974 yg bila dikonversikan dalam bentuk digital dapat menjadi struktur elemen pengganti palladium. Dengan bantuan komputer J.A.R.V.I.S. (Paul Bettany), dia membuat reaktor yg baru untuk menghilangkan tingkat keracunan darah dan dia berhasil. lalu Vanko menelpon Stark untuk memulai balas dendamnya dalam waktu 40 menit.
+
+Saat hammer ada di Expo, Hammer memperkenalkan robot militer buatan Vanko, dan juga rhodes dalam armor War Machine. Stark tiba dengan armor baru Iron Man (Mark VI) untuk memperingatkan Rhodes bahwa Vanko masih hidup, tetapi Vanko merebut kontrol dari semua robot dan armor Rhodes lalu menyerang Tony Stark. Hammer lalu ditangkap oleh kepolisian. Sopir pribadi stark Happy Hogan (Jon Favreau) dan agen Natasha ke Hammer Industries untuk menangkap Vanko. Hanya saja Vanko berhasil lolos, Natalie lalu mereebot War Machine dan berhasil.
+
+Stark dan Rhodes lalu menghancurkan semua robot Vanko. Vanko muncul dengan armor Whiplash barunya, yang sekarang lebih kuat dari waktu lalu, mereka terdesak karena armor Vanko itu. untung akhirnya Vanko kalah setelah mereka menembakkan repulsor mereka. Ternyata saat kalah, armor tadi mengaktifkan sistem meledakkan diri sendiri. Iron Man dan Rhodes kabur sebelum armornya meledak.
+
+Dalam akhir cerita Nick Fury menyarankan Stark untuk bergabung dalam The Avenger yang beranggotakan Thor, Hulk, Hawkeye ,Black Widow dan Captain America untuk menyelamatkan dunia dari alien. Stark mengatakan dia akan berpikir dahulu karena dia dengan Rhodes mendapatkan piagam penghargaan dari senator Stern.
+
+Setelah credit title film ini berakhir, ada adegan agen S.H.I.E.L.D Phil Coulson (Clark Gregg) yang pergi ke New Mexico untuk memeriksa palu Mjolinir milik Thor yang jatuh ke bumi. Dia menemukan bahwa Mjolnir berada di kawah di padang pasir New Mexico.
+
+            \n\nsource : WIKIPEDIA
+        </item>
+
+
+
+
+        <item>
+            \n
+            Selama beberapa dekade publikasi, Banner telah digambarkan secara berbeda, tetapi tema umum tetap ada. Banner, seorang fisikawan, sarkastik dan tampaknya sangat percaya diri saat pertama kali muncul di Incredible Hulk #1, tetapi juga ditarik secara emosional dalam kebanyakan mode.[8] Banner merancang bom gamma yang menyebabkan penderitaannya, dan ironisnya nasib dirinya sendiri telah menjadi salah satu tema umum yang paling gigih.[9] Arie Kaplan menggambarkan karakternya demikian: "Bruce Banner hidup dalam keadaan panik yang konstan, selalu waspada bahwa monster di dalamnya akan meledak, dan karena itu dia tidak dapat membentuk ikatan yang berarti dengan siapa pun."[10] Sebagai seorang anak, ayah Banner Brian sering marah dan secara fisik menyalahgunakan Banner dan ibunya, menciptakan kompleks ketakutan, kemarahan, dan ketakutan akan kemarahan dan kehancuran yang bisa diakibatkannya yang mendasari karakter tersebut. Banner terbukti ditekan secara emosional, tetapi mampu mencermati cinta mendalam pada Betty Ross, dan untuk memecahkan masalah yang diajukan kepadanya. Di bawah tulisan Paul Jenkins, Banner diperlihatkan sebagai pelarian yang cakap, menerapkan penalaran dan observasi deduktif untuk mengetahui kejadian yang terjadi di sekelilingnya.
+
+            \n\nsource : WIKIPEDIA
+        </item>
+
+
+
+
+        <item>
+            \n
+            Pada tahun 965 M, Odin, raja Asgard, berperang melawan Frost Giants dari Jotunheim dan pemimpin mereka Laufey, untuk mencegah mereka menaklukkan sembilan wilayah, dimulai dengan Bumi. Pedang Asgardian mengalahkan Giant Frost dan merebut sumber kekuatan mereka, Casket of Ancient Winters.
+
+Saat ini, anak Odin Thor bersiap naik ke takhta Asgard, namun terputus saat Frost Giants mencoba mengambil peti mati tersebut. Atas perintah Odin, Thor pergi ke Jotunheim untuk menghadapi Laufey, didampingi oleh adiknya Loki, teman masa kecil Sif dan Warriors Three: Volstagg, Fandral, dan Hogun. Pertarungan terjadi kemudian sampai Odin melakukan intervensi untuk menyelamatkan orang-orang Asgardian, menghancurkan gencatan senjata yang rapuh antara kedua ras tersebut. Untuk arogansi Thor, Odin menanggalkan anaknya dari kekuatan dewa dan mengusirnya ke Bumi sebagai makhluk fana, ditemani oleh palu Mjolnir, yang sekarang dilindungi oleh pesona yang memungkinkan hanya yang layak untuk menggunakannya.
+
+Thor mendarat di New Mexico, di mana astrofisikawan Dr. Jane Foster, asistennya Darcy Lewis, dan mentor Dr. Erik Selvig, menemukannya. Penduduk setempat menemukan Mjolnir, agen S.H.I.E.L.D. Phil Coulson segera menjadi komandan sebelum secara paksa memperoleh data Jane tentang lubang cacing yang mengantarkan Thor ke Bumi. Thor, yang telah menemukan lokasi terdekat Mjolnir, berusaha mengambilnya dari fasilitas yang S.H.I.E.L.D. dengan cepat dibangun tapi dia mendapati dirinya tidak mampu mengangkatnya, dan ditangkap. Dengan bantuan Selvig, dia dibebaskan dan mengundurkan diri untuk diasingkan di Bumi saat dia mengembangkan percintaan dengan Jane.
+
+Loki menemukan bahwa dia adalah anak biologis Laufey, diadopsi oleh Odin setelah perang usai. Seorang Odin yang letih jatuh ke dalam "Odinsleep" yang dalam untuk memulihkan kekuatannya. Loki merebut takhta pengganti Odin dan menawarkan kesempatan kepada Laufey untuk membunuh Odin dan merebut peti mati tersebut. Sif dan Warriors Three, yang tidak senang dengan peraturan Loki, mencoba mengembalikan Thor dari pengasingan, meyakinkan Heimdall, penjaga gerbang Bifröst — sarana untuk melakukan perjalanan di antara dunia — untuk memungkinkan mereka masuk ke Bumi. Sadar akan rencana mereka, Loki mengirim Destroyer, robot yang tampaknya tidak bisa dihancurkan, untuk mengejar mereka dan membunuh Thor. Para pejuang menemukan Thor, namun serangan Destroyer dan mengalahkan mereka, mendorong Thor untuk menawarkan dirinya sebagai gantinya. Dipukul oleh Destroyer dan menjelang kematian, pengorbanan Thor membuktikan dia layak untuk menggunakan Mjolnir. Palu kembali kepadanya, memulihkan kekuatannya dan memungkinkannya mengalahkan Destroyer. Ciuman selamat tinggal Jane dan bersumpah untuk kembali, dia dan rekan-rekan Asgardiannya pergi untuk menghadapi Loki.
+
+Di Asgard, Loki mengkhianati dan membunuh Laufey, mengungkapkan rencananya yang sebenarnya untuk menggunakan usaha Laufey pada kehidupan Odin sebagai alasan untuk menghancurkan Jotunheim dengan Jembatan Bifröst, sehingga membuktikan dirinya layak untuk ayah angkatnya. Thor datang dan melawan Loki sebelum menghancurkan Jembatan Bifröst untuk menghentikan rencana Loki, menandingi dirinya di Asgard. Odin membangunkan dan mencegah saudara-saudaranya jatuh ke dalam jurang yang tercipta setelah penghancuran jembatan, tapi Loki membiarkan dirinya jatuh saat Odin menolak permintaannya untuk mendapatkan persetujuan. Thor menebus kesalahannya dengan Odin, mengakui bahwa dia belum siap untuk menjadi raja; sementara di Bumi, Jane dan timnya mencari cara untuk membuka portal ke Asgard.
+
+Dalam adegan pasca-kredit, Selvig telah dibawa ke fasilitas S.H.I.E.L.D., di mana Nick Fury membuka koper dan meminta dia untuk mempelajari benda berbentuk kubus misterius,[b] yang oleh Fury mungkin memiliki kekuatan tak terhitung. Loki tak terlihat meminta Selvig untuk setuju, dan dia melakukannya.
+
+            \n\nsource : WIKIPEDIA
+        </item>
+
+
+
+
+        <item>
+            \n
+            Loki (Tom Hiddleston) bertemu dengan Other, pemimpin pasukan luar angkasa yang dikenal sebagai Chitauri. Dalam pertukaran untuk mengambil Tesseract, sumber energi yang sangat kuat, Other menjanjikan Loki tentara Chitauri yang dapat ia pimpin untuk menundukkan Bumi. Nick Fury (Samuel L. Jackson), direktur badan pengawas S.H.I.E.L.D, dan letnan Agen Maria Hill (Cobie Smulders) tiba di sebuah fasilitas penelitian terpencil selama evakuasi, di mana fisikawan Dr. Erik Selvig (Stellan Skarsgård) memimpin sebuah tim peneliti untuk melakukan percobaan pada Tesseract. Agen Phil Coulson (Clark Gregg) menjelaskan bahwa Tesseract telah memancar bentuk energi yang tidak biasa. Tesseract tiba-tiba aktif dan membuka portal, memungkinkan Loki untuk mencapai Bumi. Loki mengambil Tesseract dan menggunakan tongkatnya untuk memperbudak Selvig dan beberapa agen, termasuk Clint Barton/Hawkeye (Jeremy Renner), untuk membantunya.
+
+Dalam menanggapi serangan itu, Fury mengaktifkan kembali Avengers Initiative. Agen Natasha Romanoff (Scarlett Johansson) dikirim ke Calcutta untuk merekrut Dr. Bruce Banner (Mark Ruffalo) untuk melacak Tesseract melalui emisi radiasi gammanya. Coulson mengunjungi Tony Stark (Robert Downey, Jr.) untuk meninjau penelitian Selvig, dan Fury mendekati Steve Rogers/Captain America (Chris Evans) dengan tugas untuk mengambil Tesseract. Sementara Barton mencuri iridium yang diperlukan untuk menstabilkan daya Tesseract ini, Loki membuat kekacauan di Stuttgart yang mengarah ke konfrontasi dengan Rogers, Stark, dan Romanoff yang berakhir dengan penyerahan Loki. Sementara Loki sedang diantar ke S.H.I.E.L.D, Thor (Chris Hemsworth), saudara angkatnya, datang dan membebaskan dirinya berharap untuk meyakinkan dia untuk meninggalkan rencananya dan kembali ke Asgard. Setelah konfrontasi dengan Stark dan Rogers, Thor setuju untuk mengambil Loki ke kapal induk terbang S.H.I.E.L.D., Helicarrier. Ada Loki dipenjarakan sementara Banner dan Stark mencari Tesseract tersebut.
+
+The Avengers terpecah, di satu sisi mereka ingin mencari tahu rencana Loki dan disisi lain mereka ingin tahu rencana S.H.I.E.L.D. terhadap Tesseract yang kemudian diungkapkan Fury untuk mengembangkan senjata pemusnah massal sebagai pencegahan terhadap makhluk luar angkasa. Dilain pihak, Barton dan agen lainnya yang dimiliki Loki menyerang Helicarrier, meledakkan turbin penerbangan dan menyebabkan Banner berubah menjadi Hulk. Stark dan Rogers mencoba untuk me-restart turbin yang rusak, dan Thor mencoba untuk menghentikan amukan Hulk. Romanoff berkelahi Barton, dan dengan membenturkan kepala Barton, Barton pun sadar. Loki lolos setelah membunuh Coulson dan Thor mendepak dari pesawat, sementara Hulk jatuh ke tanah setelah menyerang sebuah jet tempur S.H.I.E.L.D. . Fury menggunakan kematian Coulson untuk memotivasi Avengers untuk bekerja sebagai tim. Stark dan Rogers menyadari bahwa hanya mengalahkan mereka tidak akan cukup untuk Loki, ia harus mengalahkan mereka di depan umum untuk memvalidasi dirinya sebagai penguasa Bumi. Loki menggunakan Tesseract, dalam hubungannya dengan perangkat Selvig dibangun, untuk membuka lubang cacing di atas Menara Stark ke armada Chitauri di ruang angkasa, meluncurkan invasi.
+
+The Avengers siap dalam membela New York City, lokasi lubang cacing itu, tapi dengan cepat menyadari bahwa mereka akan kewalahan sebagai gelombang demi gelombang Chitauri turun atas Bumi. Banner berubah menjadi Hulk, dan bersama-sama dengan Rogers, Stark, Thor, Barton dan Romanoff, mereka pertempuran Chitauri saat mengevakuasi warga sipil. Hulk pergi setelah Loki dan mengalahkan dia ke pengiriman. Romanoff membuat perjalanan ke lubang cacing, di mana Selvig, dibebaskan dari kontrol Loki, mengungkapkan bahwa tongkat Loki dapat digunakan untuk menutup lubang cacing. Sementara itu, atasan Fury mencoba untuk mengakhiri invasi dengan meluncurkan rudal nuklir di Manhattan. Stark menyadap rudal dan membawanya melalui lubang cacing terhadap armada Chitauri. Meledakan rudal, menghancurkan kapal induk Chitauri dan meninggalkan pasukan mereka di Bumi. Setelan Stark kehabisan daya dan ia jatuh kembali melalui lubang cacing, tetapi Hulk menyelamatkan dia dari jatuh ke tanah. Romanoff menonaktifkan lubang cacing untuk mencegah invasi lebih lanjut. Setelah kejadian itu, Thor dan Loki menggunakan Tesseract untuk kembali ke Asgard. Fury mengungkapkan keyakinan bahwa Avengers akan kembali jika mereka dibutuhkan.
+
+            \n\nsource : WIKIPEDIA
+
+        </item>
+
+
+
+
+        <item>
+            \n
+            Suatu ketika setelah peristiwa The Avengers, Tony Stark mengalami gangguan stres pascatrauma dan sering panik.[N 2] Ia pun membuat beberapa baju Iron Man di rumahnya untuk mengatasi gangguan insomnianya. Hobinya itu memunculkan perselisihan dengan kekasihnya, pimpinan Stark Industries yang baru bernama Pepper Potts. Dalam kilas balik ke Tahun Baru 1999, Stark dan ilmuwan Maya Hansen dengan sombong menghindari ilmuwan Aldrich Killian yang meminta bantuan Stark untuk mengembangkan usahanya, Advanced Idea Mechanics.
+
+Di Amerika Serikat masa kini, serangkaian pengeboman yang dilakukan teroris Mandarian memusingkan para agen intelijen karena tidak adanya bukti forensik. Setelah kepala keamanan Stark Industries Happy Hogan menjadi korban salah satu serangannya, Stark bangkit dan mengancam Mandarin lewat televisi. Mandarin menanggapi dengan menghancurkan rumah Stark menggunakan helikopter bersenjata. Potts dan Hansen, yang datang untuk memperingatkan Stark, selamat dari serangan itu. Begitu pula Stark yang baru sadar dirinya berada di pedesaan Tennessee setelah program kecerdasan buatan JARVIS melaksanakan rencana penerbangan yang ia susun sebelumnya untuk melacak Mandarin. Tenaga baju tempur uji coba milik Stark tidak cukup untuk pulang ke California, sehingga dunia meyakini Stark tewas.
+
+Bersama Harley, bocah berusia 10 tahun yang serba ingin tahu, Stark menyelidiki sisa-sisa ledakan di kota itu yang mirip dengan serangan Mandarin di Los Angeles. Ia menemukan bahwa ledakan tersebut dilakukan oleh tentara dari program Extremis, uji coba yang memungkinkan penggunanya pulih dari cedera parah. Akan tetapi, jika metabolisme tubuh pengguna tidak mampu menyerap Extremis, tubuhnya akan panas dan meledak. Setelah para veterannya mulai tidak stabil dan meledak, kematian mereka dipakai untuk menutupi kegagalan Extremis dengan menyusun plot teroris. Stark pertama kali melihat Extremis ketika agen Mandarin, Ellen Brandt dan Eric Savin, menyerangnya.
+
+Atas bantuan Harley, Stark melacak Mandarin hingga Miami. Stark menyusup ke kantor pusat menggunakan berbagai senjata rakitan. Di sana ia mengetahui bahwa Mandarin sebenarnya aktor asal Britania bernama Trevor Slattery yang tidak sadar dengan aksi-aksi Mandarin. Mandarin sebenarnya adalah imajinasi Killian. Killian memakai penelitian Extremis-nya Hansen sebagai obat keterbatasannya dan mengembangkan program tersebut agar bisa dimanfaatkan veteran-veteran perang yang terluka. Killian mengungkap bahwa ia telah menculik Potts dan memasukkannya ke program Extremis dengan tujuan memberikan Potts kemampuan super dan melawan Stark agar Killian mendapat bantuan Stark untuk memperbaiki kekurangan Extremis.
+
+Killian juga telah memanipulasi agen-agen intelijen Amerika Serikat mengenai lokasi Mandarin dengan menjebak James Rhodes — mantan pengguna War Machine, sekarang ganti nama menjadi Iron Patriot — agar baju tempurnya bisa dicuri. Stark kabur dari tahanannya dan bertemu Rhodes. Mereka mengetahui bahwa Killian akan menyerang Presiden Ellis di Air Force One. Dengan mengendalikan Iron Man dari jarak jauh, Stark berhasil menyelamatkan penumpang dan awak namun gagal menghentikan Killian. Mereka melacak Killian hingga anjungan pengeboran minyak. Di sana Killian akan membunuh Ellis secara langsung di hadapan kamera. Wakil Presiden akan dijadikan pemimpin boneka yang mematuhi perintah Killian dengan imbalan penyembuhan kecacatan putrinya oleh program Extremis.
+
+Di atas anjungan, Stark menyelamatkan Potts, sedangkan Rhodes menyelamatkan Presiden. Stark mengerahkan semua baju Iron Man-nya yang dikendalikan dari jauh oleh Jarvis sebagai bala bantuan. Rhodes mengamankan Presiden, sementara Stark menemukan bahwa Potts selamat dari prosedur Extremis. Akan tetapi, sebelum Potts dapat diselamatkan, anjungan runtuh dan ia jatuh dari ketinggian 60 meter. Stark yang terpaksa melawan Killian menjebaknya di dalam baju Iron Man yang dapat meledak sendiri. Killian selamat dari ledakan baju tersebut, tetapi dibunuh Potts yang ternyata terselamatkan oleh kekuatan Extremis-nya.
+
+Setelah pertempuran berakhir, Stark memerintahkan JARVIS untuk menghancurkan semua baju Iron Man sebagai tanda bahwa ia ingin menghabiskan waktu lebih banyak bersama Potts. Baik Wakil Presiden dan Cassidy ditahan. Potts menjalani operasi untuk menghilangkan efek Extremis dan Stark menjalani pengangkatan pecahan besi di dekat jantungnya. Ia kemudian melempar reaktor jantungnya ke laut, namun tetap menganggap dirinya sebagai Iron Man tanpa baju tempur.
+
+Setelah kredit selesai, muncul adegan yang menunjukkan bahwa narasi Stark sepanjang film sebenarnya merupakan curahan hati kepada seseorang tentang trauma yang dideritanya. Kamera beralih ke Dr. Bruce Banner yang bangun setelah tertidur mendengarkan cerita Stark.
+
+            \n\nsource : WIKIPEDIA
+
+        </item>
+
+
+
+
+        <item>
+            \n
+         Beberapa tahun sebelumnya, Bor, Ayah dari Odin (Anthony Hopkins), bertempur melawan Dark Elf Malekith. Malekith (Christopher Eccleston) berencana menghancurkan alam semesta menggunakan senjata bernama Aether. Setelah Bor berhasil mengalahkan mereka, Malekith dikirim menuju penjara dan Aether dilindungi oleh Bor. Sayangnya, beberapa saat kemudian, Malekith berhasil melarikan diri. Beberapa tahun setelahnya, Thor (Chris Hemsworth) bersama prajurit lainnya bertugas menjaga kedamaian. Di tempat lain, Jane Foster (Natalie Portman), seorang ahli fisika, diberitahu anak yang sedang magang di tempatnya bekerja bahwa ada sebuah tempat yang menarik. Tempat tersebut melawan hukum-hukum fisika pada umumnya. Saat berada di gedung tersebut dengan peralatan fisikanya, Foster malah tersedot ke pusaran Aether. Mengetahui hal tersebut, Thor menemui Foster yang sudah terpapar Aether dan berusaha menyembuhkannya. Odin memperingatkan bahwa kandungan Aether pada tubuh Foster bisa membawa kematian padanya kapan saja. Bukan hanya itu, keberadaan Aether juga bisa membuat kehancuran pada alam semesta. Benar saja, setelah penemuan kembali Aether, pada Malekith kembali terbangun. Mereka mengumpulkan pasukan untuk menyerang Asgard, tempat Odin dan Thor berada, serta mencari keberadaan Foster untuk mendapatkan Aether. Walaupun penyerangan pertama gagal, Malekith berhasil membunuh ibu Thor. Malekith akan datang lagi untuk menyerang dan menculik Foster. Thor harus mengumpulkan bantuan agar tidak ada korban lagi yang berjatuhan. Serta yang paling penting agar Aether tidak jatuh ke tangan pihak yang salah. Pilihannya adalah Loki (Tom Hiddleston), adik Thor yang sedang di penjara karena perbuatan jahatnya.
+
+            \n\nsource : tirto.id
+
+        </item>
+
+
+
+
+
+        <item>
+            \n
+           Sebelumnya, lawan dari Captain America adalah Hydra, organisasi di bawah Nazi yang membelot. Seiring berjalannya waktu, Hydra memasuki organisasi militer Amerika dan perlahan menguasainya. Setelah terdampar di antartika dan membeku selama 70 tahun, Captain America berhasil diselamatkan dengan teknologi canggih. Kini dia masih bekerja untuk militer Amerika bernama SHIELD. Dia ditempatnya di divisi khusus bernama STRIKE. STRIKE mendapat misi dari atasannya, Nick Furry (Samuel L. Jackson ), untuk menyelamatkan kapal SHIELD yang ditawan oleh bajak laut. Misi berjalan baik dan sukses. Namun melihat Natasha Romanof atau Black Widow (Scarlett Johansson) menduplikat beberapa file yang ada di kapal tanpa sepengetahuannya, Captain America merasa marah. Ada agenda lain yang sedang direncanakan. Setelah ditelusuri, perbuatan Black Widow merupakan arahan dari Furry. Menurut Furry, militer Amerika sedang menjalankan sebuah proyek yang bisa mengancam kedamaian dunia. Mengetahui bahwa ada proyek yang bisa membuat perang dunia terjadi lagi, Captain America dan Furry tidak sepakat. Kemudian Furry memutuskan keluar dari proyek tersebut. Namun keluarnya Furry berbuntut panjang, dia dikejar oleh kelompok tentara SHIELD bernama Winter Soldier. Kekuatan Winter Soldier hampir mirip dengan kekuatan Captain America. Mereka merupakan hasil proyek eksperimen. Dalam kasus ini, Captain America bertugas menggagalkan proyek tersebut dan mencari tahu siapa dalangnya. Dalam menjalankan misi barunya, Captain America dibantu oleh Black Widow.
+
+
+            \n\nsource : tirto.id
+
+        </item>
+    </string-array>
+
+
+
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/captainamericafirstavanger</item>
+        <item>@drawable/captainmarvel</item>
+        <item>@drawable/ironman1</item>
+        <item>@drawable/ironman2</item>
+        <item>@drawable/hulk1</item>
+        <item>@drawable/thor1</item>
+        <item>@drawable/theavengers</item>
+        <item>@drawable/ironman3</item>
+        <item>@drawable/thorthedarkworld</item>
+        <item>@drawable/captainamericathewintersoldie</item>
+    </integer-array>
+
+
+</resources>
